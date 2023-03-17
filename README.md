@@ -16,7 +16,7 @@ Webpack
 
 This app was installed using npm i and then adding dependencies. The app itself is deployed to Heroku at:
 
-
+https://module-19-christo.herokuapp.com/
 
 
 Likewise, the respository fot his assignment can be found at :

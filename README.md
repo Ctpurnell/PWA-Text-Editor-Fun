@@ -21,8 +21,7 @@ https://module-19-christo.herokuapp.com/
 
 Likewise, the respository fot his assignment can be found at :
 
-https://github.com/Ctpurnell/Module-19-Challenge
-
+https://github.com/Ctpurnell/PWA-Text-Editor-Fun
 
 
 ## Author
